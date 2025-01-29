@@ -1,3 +1,12 @@
+Deployements:
+video: https://drive.google.com/file/d/1QeUJ3fEZ6rgOK3dB5NJbWiaQe3MOmqsE/view?usp=sharing
+
+api gateway: https://se4458-final.onrender.com/
+
+client: https://se4458-final-front.onrender.com/
+
+
+
 # E-Prescription System
 
 This project provides an API that allows doctors to create electronic prescriptions, pharmacies to manage medications, and patients to view their prescriptions.
