@@ -1,4 +1,4 @@
-Deployements:
+
 video: https://drive.google.com/file/d/1QeUJ3fEZ6rgOK3dB5NJbWiaQe3MOmqsE/view?usp=sharing
 
 api gateway: https://se4458-final.onrender.com/
